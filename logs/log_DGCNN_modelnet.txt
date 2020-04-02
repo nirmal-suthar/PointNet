@@ -9,4 +9,6 @@ Training Start
 Epoch: 1, epoch_loss: 0.84915555, accuracy: 0.7158590308370044
 Epoch: 2, epoch_loss: 0.40355712, accuracy: 0.8458149779735683
 Epoch: 3, epoch_loss: 0.42151508, accuracy: 0.8744493392070485
+Epoch: 4, epoch_loss: 0.3616431, accuracy: 0.8623348017621145
+Epoch: 5, epoch_loss: 0.34046105, accuracy: 0.8876651982378855
 

@@ -29,5 +29,5 @@ K ( nearest-neighbour, used in DGCNN ) = 10
 
 Dataset | ModelNet (10 classes) |
 ---|--|
-DGCNN |<b>0.8744</b>|
-PointNet |0.7544|
+DGCNN |<b>0.8876</b>|
+PointNet |0.8557|
