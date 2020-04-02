@@ -1,0 +1,11 @@
+Dataset: modelnet 
+No. of classes: 10
+Loading dataset...
+Train dataset length: 3991
+Loaded...
+Model: pointnet
+Training Start
+Epoch: 1, epoch_loss: 72.76925, accuracy: 0.7334801762114538
+Epoch: 2, epoch_loss: 42.226044, accuracy: 0.7444933920704846
+Epoch: 3, epoch_loss: 35.98898, accuracy: 0.7544052863436124
+
